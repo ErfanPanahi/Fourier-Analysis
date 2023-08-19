@@ -1,4 +1,5 @@
 # Fourier-Analysis
+In this repository, we intend to examine the Fourier transform of various signals along with their properties.
 
 *Since simulations are conducted in the MATLAB environment using computers, all the signals involved in the simulations are discrete signals. Therefore, all the results must be consistent with the discrete domain. However, the discrete and continuous domains are closely related, and their concepts align with each other.*
 
